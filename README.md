@@ -14,4 +14,6 @@ In an attempt to make food for snake game, I accidentally opened a portal to an 
 
 # Retro-Plane-Heightmap
 Initially wanted to make a retrowave graphics engine that would take a raster image and retrobeam it into a grid terrain. This was me fiddling about with it and I thought it looks sick.
-![image](https://github.com/user-attachments/assets/895447aa-f167-464c-9162-18ab300ed875)
+
+https://github.com/user-attachments/assets/6836ec11-59f5-4cbb-bbd4-957df0981624
+
